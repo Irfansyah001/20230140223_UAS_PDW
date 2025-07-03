@@ -1,2 +1,5 @@
-</div> </body>
+</div>
+<footer>
+</footer>
+</body>
 </html>
