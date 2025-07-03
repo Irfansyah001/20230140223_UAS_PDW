@@ -1,4 +1,4 @@
-# SIMPRAK: Sistem Manajemen Praktikum Online
+# SIMPRAK: Sistem Manajemen Praktikum Onlin
 
 ## Deskripsi Proyek
 
